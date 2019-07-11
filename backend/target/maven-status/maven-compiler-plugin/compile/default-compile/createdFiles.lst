@@ -1,0 +1,5 @@
+com/thedigitalacademy/intern/repository/UserRepository.class
+com/thedigitalacademy/intern/service/UserService.class
+com/thedigitalacademy/intern/entity/User.class
+com/thedigitalacademy/intern/controller/UserController.class
+com/thedigitalacademy/intern/CrudRepository1Application.class

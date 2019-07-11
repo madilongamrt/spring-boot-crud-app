@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-thedigitalacademy<intern.application>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.thedigitalacademy.intern.thedigitalacademy",
+            "projectName": "intern.application",
+            "args": ""
+        }
+    ]
+}
